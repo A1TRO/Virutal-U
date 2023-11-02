@@ -11,7 +11,7 @@ npm init -y
 Then install the required dependencies:
 
 ```shell
-npm i discord.js@14 discord.js-v14-helper ms mongoose
+npm i discord.js@14 discord.js-v14-helper ms mongoose @nut-tree/nut-js
 ```
 
 ## Start the project:
